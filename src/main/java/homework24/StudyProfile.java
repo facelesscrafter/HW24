@@ -1,4 +1,4 @@
-package hw24;
+package homework24;
 
 public enum StudyProfile {
     MEDICINE("Медицина"),

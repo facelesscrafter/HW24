@@ -1,6 +1,4 @@
-package hw24;
-
-import hw24.StudyProfile;
+package homework24;
 
 public class University {
     private String id;
